@@ -4,6 +4,10 @@
 
 - about.md 추가
 
+## 사이드 바 추가
+
+- sidebar.md 추가
+
 ## 내비게이션 추가
 
 - navigation.md 추가
